@@ -1,4 +1,4 @@
-
+Obsidian for Windows advanced Script: markdown-support & export-options offers the most advanced Obsidian for Windows script, with markdown-support and export-options. Ideal for
 
 
 
